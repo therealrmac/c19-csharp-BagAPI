@@ -1,0 +1,8 @@
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\bin\Debug\netcoreapp1.0\BagAPI.deps.json
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\bin\Debug\netcoreapp1.0\BagAPI.runtimeconfig.json
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\bin\Debug\netcoreapp1.0\BagAPI.runtimeconfig.dev.json
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\obj\Debug\netcoreapp1.0\BagAPI.AssemblyInfo.cs
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\bin\Debug\netcoreapp1.0\BagAPI.dll
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\bin\Debug\netcoreapp1.0\BagAPI.pdb
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\obj\Debug\netcoreapp1.0\BagAPI.dll
+C:\Users\rmac_\workspace\csharp\exercises\WebAPI\obj\Debug\netcoreapp1.0\BagAPI.pdb
